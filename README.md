@@ -24,7 +24,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. How would you describe acessibility on the web to someone new to programming?
 
-  Accessibility means making sure the web is a fun an informative place for everyone to be. websites should be made not just for the masses, but also with people in mind with disibilities that might find parts of surfing the web difficult. As a developer, we should write code that can be morped into whatever our customers need it to be. Large fonted, read aloud, inverted colors, as well as screen readers and devices of all shapes and sizes. The web is for all!
+  Accessibility means making sure the web is a fun an informative place for everyone to be. websites should be made not just for the masses, but also with people in mind with disibilities that might find parts of surfing the web difficult. As a developer, we should write code that can be morphed into whatever our customers need it to be. Large fonted, read aloud, inverted colors, as well as screen readers and devices of all shapes and sizes. The web is for all!
 
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
